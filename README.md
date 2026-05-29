@@ -4,6 +4,10 @@ Proof SDK is the open-source editor, collaboration server, provenance model, and
 
 If you want the hosted product, use [Proof](https://proofeditor.ai). Hosted Proof is made by [Every](https://every.to).
 
+## Upstream
+
+This repository is synced with upstream [`EveryInc/proof-sdk`](https://github.com/EveryInc/proof-sdk), currently based on commit [`fb25787`](https://github.com/EveryInc/proof-sdk/commit/fb2578758f1c62776301209131181643c5f4a19a) (2026-03-23).
+
 ## What Is Included
 
 - Collaborative markdown editor with provenance tracking
