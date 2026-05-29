@@ -1,0 +1,4 @@
+[install]
+# Vite가 bun의 isolated installs(.bun/) 구조를 인식하지 못해 CJS pre-bundle 실패
+# hoisted 모드로 전환하여 표준 node_modules 구조 사용
+linker = "hoisted"
