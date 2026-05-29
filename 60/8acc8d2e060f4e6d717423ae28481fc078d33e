@@ -1,0 +1,11 @@
+bunfig.toml
+  ai_agent 1-4
+bun.lock
+  ai_agent 1-1054
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "608acc8d2e060f4e6d717423ae28481fc078d33e",
+  "prompts": {}
+}
